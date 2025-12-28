@@ -17,7 +17,7 @@ export default function MobileNav() {
 
       <span className="flex h-[35px] w-[161px] items-center gap-[16px]">
         <img src="/search.png" alt="search" />
-        <button className="h-[35px] w-[125px] rounded-md border-2 border-primary bg-white text-center text-base font-medium text-primary">
+        <button className="h-[35px] w-[125px] rounded-md border border-primary bg-white text-center text-base font-medium text-primary">
           Contact Us
         </button>
       </span>

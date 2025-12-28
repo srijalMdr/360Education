@@ -25,7 +25,7 @@ export default function Form() {
                 </strong>
                 <span className="font-[500px]">below</span>
               </span>
-              <p className="mb-[28px] md:mb-[40px]">
+              <p className="mb-[28px] text-[16px] md:mb-[40px] md:text-[14px]">
                 Our experts will connect with you to help you choose the right
                 university, program, and scholarships.
               </p>

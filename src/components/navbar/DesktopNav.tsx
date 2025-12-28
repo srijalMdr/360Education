@@ -90,7 +90,7 @@ export default function DesktopNav() {
           </ul>
           <div className="flex items-center gap-[7.5px] md:gap-[28px]">
             <img src="/search.png" alt="search" className="md:ml-[15px]" />
-            <button className="rounded-md border-2 border-primary bg-white px-[20px] py-[12px] text-center text-base font-medium text-primary md:px-[32px] md:py-[16px]">
+            <button className="rounded-md border border-primary bg-white px-[20px] py-[12px] text-center text-base font-medium text-primary md:px-[32px] md:py-[16px]">
               Contact Us
             </button>
           </div>
