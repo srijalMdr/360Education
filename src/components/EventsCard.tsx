@@ -20,7 +20,7 @@ export default function EventCard({ image, title, location }: Event) {
           28<sup>th</sup> Jan 2025
         </p>
       </article>
-      <button className="hidden h-[42px] w-full rounded-md border-b-2 border-r-2 border-secondaryYellow bg-primary px-6 py-2 text-[14px] font-medium text-white md:block">
+      <button className="h-[42px] w-full rounded-md border-b-2 border-r-2 border-secondaryYellow bg-primary px-6 py-2 text-[14px] font-medium text-white">
         Register Now{" "}
       </button>
     </div>
